@@ -4,6 +4,9 @@
 
 Welcome to the ultimate mod menu for Slither.io, designed to enhance your gameplay experience with a feature-rich, customizable UI and deep integration with the 143X gaming community. This script is built for performance, customization, and social interaction.
 
+<img width="1082" height="816" alt="image" src="https://github.com/user-attachments/assets/6a2ea3e0-db8a-4c7c-bd7c-932e5523b5fa" />
+
+
 ## ✨ Key Features
 
 - **Customizable UI**: A sleek, modern menu that is draggable, resizable, and scalable. Change the theme color and menu name to match your style.
