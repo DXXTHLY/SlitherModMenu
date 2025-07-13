@@ -20,8 +20,8 @@ Welcome to the ultimate mod menu for Slither.io, designed to enhance your gamepl
 To use this mod, you need a userscript manager browser extension. **Tampermonkey** is highly recommended.
 
 1.  **Install 143X Files//Folder**:
-    *   Install files put in folder named 143X Menu - Upload Unpacked with Dev Mode Enabled Chromium Browsers
-    *   Install zip folder for firefox type browsers upload zip @ about:debugging#/runtime/this-firefox -> zip -> Load Temporary Add-on...
+    *   Download 143X Menu Folder - Upload Unpacked with Dev Mode Enabled Chromium Browsers
+    *   Download zip folder for firefox type browsers upload zip @ about:debugging#/runtime/this-firefox -> zip -> Load Temporary Add-on...
 
 2.  **Play**: Navigate to [slither.io](http://slither.io/), and the mod menu will load automatically.
 
